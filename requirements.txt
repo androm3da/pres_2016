@@ -1,0 +1,6 @@
+sklearn
+nltk
+seaborn
+textblob
+pandas
+matplotlib
